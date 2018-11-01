@@ -1,8 +1,9 @@
-﻿[{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "zhangphil.test",
-    "sha256_cert_fingerprints": ["EB:DE:5F:55:D2:B1:7D:80:AF:5D:7F:EB:F7:2E:4E:AF:FF:40:B3:E1:4E:6F:67:6A:5E:73:00:98:AF:A6:8A:D9"]
+    "sha256_cert_fingerprints":
+    ["EB:DE:5F:55:D2:B1:7D:80:AF:5D:7F:EB:F7:2E:4E:AF:FF:40:B3:E1:4E:6F:67:6A:5E:73:00:98:AF:A6:8A:D9"]
   }
 }]
